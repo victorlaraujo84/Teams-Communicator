@@ -1,0 +1,6 @@
+{
+  "name": "Teams Communicator",
+  "description": "Gerenciador corporativo de comunicados agendados para Microsoft Teams via Webhooks e Power Automate, com editor de Adaptive Cards e assistente IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
